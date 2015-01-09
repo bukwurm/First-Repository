@@ -1,5 +1,5 @@
 # First-Repository
-My first repository
+My first repository.
 Programming is fun.
 My whole family enjoys programming.
 My daughter is learning JavaScript (she's 9).
